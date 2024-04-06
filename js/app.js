@@ -32,7 +32,7 @@ function showMovies(data) {
   // Очищаем предыдущие игры
   document.querySelector(".movies").innerHTML = "";
 
-  data.films.forEach((movie) => {
+  data.games.forEach((movie) => {
     const movieEl = document.createElement("div");
     movieEl.classList.add("movie");
     movieEl.innerHTML = `
