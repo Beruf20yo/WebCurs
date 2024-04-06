@@ -1,0 +1,36 @@
+{
+    "pagesCount": 1,
+    "games": [
+        {
+            "gameId": 1,
+            "nameRu": "Mafia II",
+            "year": "2010",
+            "quote": "«Я был по уши в дерьме, но хоть было чем его хлебать»",
+            "countries": [
+                {
+                    "country": "США"
+                }
+            ],
+            "genres": [
+                {
+                    "genre": "боевик"
+                },
+                {
+                    "genre": "драма"
+                },
+                {
+                    "genre": "открытый мир"
+                }
+            ],
+            "description": "Приключенческий экшен, который перенесёт вас в преступный мир Америки 1940-1950 годов. В игре вы окунётесь в этот мир и попробуете себя в роли мафиози",
+            "rating": "74.0%",
+            "ratingVoteCount": 0,
+            "webUrl": "C://Users/rinat/Desktop/Veb/curs/database/Mafia2.torrent",
+            "posterUrl": "https://itorrents-igruha.org/uploads/posts/2022-11/1668121491_cover.jpg",
+            "posterUrlPreview": "https://itorrents-igruha.org/uploads/posts/2022-11/1668121491_cover.jpg",
+            "ratingChange": null,
+            "isRatingUp": null,
+            "isAfisha": 0
+        }
+    ]
+}
